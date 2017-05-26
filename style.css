@@ -845,6 +845,7 @@ header .main-navbar ul li a:hover {
     margin: 0 auto;
     padding: 0;
     text-align: left;
+    line-height: 1.5;
 
 }
 

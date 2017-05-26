@@ -53,7 +53,8 @@
                    <p><?php the_excerpt(); ?></p>
                </div>
                <div class="row tags-row-detail">
-                   <p><?php the_tags(); ?></p>
+                  <p>*Precios sujetos a cambio sin previo aviso <br>
+                   *Precio Neto. <?php the_field("moneda"); ?></p>
                </div>
                <div class="row btn-row-detail">
                    <a href="<?php the_permalink(); ?>" class="button">Más información</a>
