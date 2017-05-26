@@ -13,17 +13,17 @@
     <ul class="orbit-container">
         <!-- INDUSTRONIC SLIDE -->
         <li class="is-active orbit-slide" id="industronic-slide">
-        <img id="logo-industronic" src="http://localhost/wp-content/uploads/2017/05/industronics1-slide.png" alt="logo-industronic">
+        <img id="logo-industronic" src="http://centralbox.com.mx/wp-content/uploads/2017/05/industronics1-slide.png" alt="logo-industronic">
          
           <p id="slide-text-industronic" align="left" >Somos parte de la red de distribuidores</p>
             <h2 id="slide-title-industronic">Central Box</h2>
 
-            <img id="reguladores" src="http://localhost/wp-content/uploads/2017/05/leasing_2.png" alt="reguladores">        
+            <img id="reguladores" src="http://centralbox.com.mx/wp-content/uploads/2017/05/leasing_2.png" alt="reguladores">        
         </li>
         <!-- FLIR SLIDE -->
          <li class="is-active orbit-slide responsive-embed panorama" id="flir-slide">
          <p id="slide-text-flir" align="left" >Las mejores cámaras termográficas están en Central Box.</p>
-         <img src="http://localhost/wp-content/uploads/2017/05/store-products-ExSeriesGroup.png" alt="">
+         <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/store-products-ExSeriesGroup.png" alt="">
             <figcaption class="orbit-caption">Conoce nuestra gama de equipos</figcaption>
         </li>
          <!-- SLIDE FOTOVOLTAICO -->
@@ -169,11 +169,11 @@
     </script>
     </div>
     <div class="column large-8 providers-logo">
-        <img class="img-providers-logo" src="http://localhost/wp-content/uploads/2017/05/4096986Hioki_logo.jpg" alt="">
-         <img class="img-providers-logo" src="http://localhost/wp-content/uploads/2017/05/logo-1.png" alt="">
-          <img class="img-providers-logo" src="http://localhost/wp-content/uploads/2017/05/totalground1.png" alt="">
-           <img class="img-providers-logo" src="http://localhost/wp-content/uploads/2017/05/Solartec.jpg" alt="">
-           <img class="img-providers-logo" src="http://localhost/wp-content/uploads/2017/05/Flir_Logo_287.jpg" alt="">
+        <img class="img-providers-logo" src="http://centralbox.com.mx/wp-content/uploads/2017/05/4096986Hioki_logo.jpg" alt="">
+         <img class="img-providers-logo" src="http://centralbox.com.mx/wp-content/uploads/2017/05/logo-1.png" alt="">
+          <img class="img-providers-logo" src="http://centralbox.com.mx/wp-content/uploads/2017/05/totalground1.png" alt="">
+           <img class="img-providers-logo" src="http://centralbox.com.mx/wp-content/uploads/2017/05/Solartec.jpg" alt="">
+           <img class="img-providers-logo" src="http://centralbox.com.mx/wp-content/uploads/2017/05/Flir_Logo_287.jpg" alt="">
 
 
     </div>
@@ -188,21 +188,21 @@
         </p>
     </div>
     <div class="row" id="main-clients">
-        <img src="http://localhost/wp-content/uploads/2017/05/gruas.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/gobierno_zacatecas.jpg" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/gobags.jpg" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/elecon.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/bahiakino.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/acciona.jpg" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/upve.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/UAA.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/tamex.jpg" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/sinitech.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/sanoh.jpg" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/reyma.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/opticas.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/magnogas.png" alt="" class="thumbnail">
-        <img src="http://localhost/wp-content/uploads/2017/05/hernandez.jpg" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/gruas.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/gobierno_zacatecas.jpg" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/gobags.jpg" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/elecon.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/bahiakino.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/acciona.jpg" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/upve.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/UAA.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/tamex.jpg" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/sinitech.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/sanoh.jpg" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/reyma.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/opticas.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/magnogas.png" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/hernandez.jpg" alt="" class="thumbnail">
     </div>
 </div>
    

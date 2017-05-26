@@ -22,7 +22,7 @@
     <header data-sticky-container>
          <div class="row logo-mobile">
             <div class="column large-2 medium-2 small-4" align="right">
-                <img id="logo-mobile" src="http://localhost/wp-content/uploads/2017/05/logo.png" alt="">
+                <img id="logo-mobile" src="http://centralbox.com.mx/wp-content/uploads/2017/05/logo.png" alt="">
             </div>
             <div class="column large-8 medium-8 small-4 column-title-mobile">
                 <h1 id="title-site-mobile"><strong>Soluciones Integrales</strong><br>en un mismo lugar</h1>
@@ -44,7 +44,7 @@
         <div class="row main-bar">
            <div class="column large-2 column-logo" align="center">
                <picture>
-                        <img id="logo" src="http://localhost/wp-content/uploads/2017/05/logo.png" alt="">
+                        <img id="logo" src="http://centralbox.com.mx/wp-content/uploads/2017/05/logo.png" alt="">
                 </picture>  
            </div>
             <div class="column large-2 column-title">

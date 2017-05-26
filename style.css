@@ -220,7 +220,7 @@ header .main-navbar ul li a:hover {
 
 /*SLIDE INDUSTRONIC*/
 #industronic-slide{
-    background-image: url('http://localhost/wp-content/uploads/2017/05/industronics2-slide.png');
+    background-image: url('http://centralbox.com.mx/wp-content/uploads/2017/05/industronics2-slide.png');
     background-color: #005590;
 
 }
@@ -262,13 +262,13 @@ header .main-navbar ul li a:hover {
 }
 
 #flir-slide{
-    background: url('http://localhost/wp-content/uploads/2017/05/grit-bkgd.jpg');
+    background: url('http://centralbox.com.mx/wp-content/uploads/2017/05/grit-bkgd.jpg');
 }
 
 /*FOTOVOLTAICO SLIDE*/
 
 #foto-slide{
-    background: url('http://localhost/wp-content/uploads/2017/05/home-header.jpg');
+    background: url('http://centralbox.com.mx/wp-content/uploads/2017/05/home-header.jpg');
 }
 #foto-slide p:nth-child(1),
 #foto-slide p:nth-child(2){

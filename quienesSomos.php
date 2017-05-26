@@ -25,7 +25,7 @@ get_header();
     <div class="row mision">
         <div class="column large-5 medium-6 small-12">
             <picture>
-                <img src="http://localhost/wp-content/uploads/2017/05/vision.jpg" alt="" id="img-mision">
+                <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/vision.jpg" alt="" id="img-mision">
             </picture>
         </div>
         <div class="column large-7 medium-6 small-12">
@@ -44,7 +44,7 @@ get_header();
        </div>
        <div class="column large-5 small-6 small-12">
            <picture>
-               <img src="http://localhost/wp-content/uploads/2017/05/mision.jpg" alt="" id="img-vision">
+               <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/mision.jpg" alt="" id="img-vision">
            </picture>
        </div>
 
