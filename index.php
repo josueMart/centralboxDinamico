@@ -116,8 +116,6 @@
                    <a href="<?php the_permalink(); ?>" class="button">Más información</a>
                </div>
           </div>
-     
-
        <?php 
         endwhile;
         else :
