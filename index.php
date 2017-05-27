@@ -203,6 +203,8 @@
         <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/opticas.png" alt="" class="thumbnail">
         <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/magnogas.png" alt="" class="thumbnail">
         <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/hernandez.jpg" alt="" class="thumbnail">
+        <img src="http://centralbox.com.mx/wp-content/uploads/2017/05/logo-hdi-184px.png" alt="" class="thumbnail">
+
     </div>
 </div>
    
