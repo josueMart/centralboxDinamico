@@ -21,7 +21,7 @@ get_header();
       <td class="detail-download">Tierras físicas y pararrayos</td>
       <td class="detail-download">Sistema Pararrayos KDA05</td>
       <td class="detail-download">TotalGround</td>
-      <td><a href="" class="enlace-download">Download</a></td>
+      <td><a href="https://www.dropbox.com/s/atxr2cjc3z9cij1/FICHA%20TECNICA%20KDA_05.pdf?dl=0" class="enlace-download" target="_blank">Download</a></td>
     </tr>
     <tr>
       <td class="detail-download">Tierras físicas y pararrayos</td>
